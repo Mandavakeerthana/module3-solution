@@ -4,8 +4,6 @@ body {
     color: #1a1a1a;
     background-color: #599e4b;
 }
-
-
 /** HEADER **/
 
 #header-nav {
